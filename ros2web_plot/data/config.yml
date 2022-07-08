@@ -1,0 +1,11 @@
+hot_reload:
+  patterns: ["*.py", "*.yml"]
+process_disable: True
+Plot:
+  size:
+    w: 2
+    h: 2
+    minW: 2
+    minH: 2
+    # maxW: 3
+    # maxH: 3
